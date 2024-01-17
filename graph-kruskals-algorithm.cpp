@@ -96,7 +96,7 @@ int main(){
         3 5 9
         4 5 8
 
-Output
+    Output
 
         MST
         2 – 4
