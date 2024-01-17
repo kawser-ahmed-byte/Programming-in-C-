@@ -1,5 +1,5 @@
 /*
-need undirected weighted connected 
+need undirected weighted connected graph
 */
 #include<bits/stdc++.h>
 using namespace std;
