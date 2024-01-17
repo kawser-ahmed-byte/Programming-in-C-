@@ -75,7 +75,9 @@ int main(){
     
 }
 /*
+
 Sample Input
+
 V
 E
 u v weight(u,v)
@@ -93,6 +95,7 @@ u v weight(u,v)
 4 5 8
 
 Output
+
 MST
 2 – 4
 1 – 3
