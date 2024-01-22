@@ -21,8 +21,8 @@ int countPrime(int arr[],int i, int j){
     }
     else{
         int mid = (i + j) / 2;
-        int c1 = countPrime(arr, i, mid);     // solution to the first half
-        int c2 = countPrime(arr, mid + 1, j); // solution to the second half
+        int c1 = countPrime(arr, i, mid);       // solution to the first half
+        int c2 = countPrime(arr, mid + 1, j);  // solution to the second half
         return c1+c2;
     }
 }
