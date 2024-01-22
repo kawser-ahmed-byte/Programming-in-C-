@@ -27,6 +27,7 @@ void quickSort(int arr[], int startInd, int lastInd){
         quickSort(arr,parts+1,lastInd);
     }
 }
+
 int main(){
     int n;
     cin >> n;
