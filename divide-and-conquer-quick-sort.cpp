@@ -19,6 +19,7 @@ int partition(int arr[], int startInd, int lastInd){
     swap(arr,i+1,lastInd);
     return i+1;
 }
+
 void quickSort(int arr[], int startInd, int lastInd){
     if(startInd<lastInd){
         int parts = partition(arr,startInd,lastInd);
