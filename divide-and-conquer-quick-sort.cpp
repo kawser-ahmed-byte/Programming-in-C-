@@ -6,6 +6,7 @@ void swap(int arr[],int i, int j){
     arr[i] = arr[j];
     arr[j] = temp;
 }
+
 int partition(int arr[], int startInd, int lastInd){
     int pivot = arr[lastInd];
     int i = startInd-1;
