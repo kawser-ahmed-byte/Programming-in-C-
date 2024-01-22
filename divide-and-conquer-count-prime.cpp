@@ -19,6 +19,7 @@ int countPrime(int arr[],int i, int j){
         }
         else return 0;
     }
+        
     else{
         int mid = (i + j) / 2;
         int c1 = countPrime(arr, i, mid);       // solution to the first half
