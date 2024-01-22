@@ -10,6 +10,7 @@ bool isPrime(int x){
  
     return true;
 }
+
 int countPrime(int arr[],int i, int j){
     if(i==j){
         if(isPrime(arr[i])){
