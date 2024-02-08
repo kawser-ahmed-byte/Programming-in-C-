@@ -1,4 +1,5 @@
 /*
+
 binary tree = contains max 2 child
 
 parent node index = n'th cell store
