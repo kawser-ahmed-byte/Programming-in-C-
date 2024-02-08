@@ -1,15 +1,15 @@
 /*
 
-binary tree = contains max 2 child
-
-parent node index = n'th cell store
-leftnode index= 2*n'th cell
-rightnode index= 2*n+1'th cell
-
-------------------------------------------------
--1|100|300|50|120|200|30|-1|-1|20|80|150|-1|99
-------------------------------------------------
-0	1   2  3   4   5  6  7  8  9  10  11 12  13
+	binary tree = contains max 2 child
+	
+	parent node index = n'th cell store
+	leftnode index= 2*n'th cell
+	rightnode index= 2*n+1'th cell
+	
+	------------------------------------------------
+	-1|100|300|50|120|200|30|-1|-1|20|80|150|-1|99
+	------------------------------------------------
+	0	1   2  3   4   5  6  7  8  9  10  11 12  13
 
 */
 #include<iostream>
