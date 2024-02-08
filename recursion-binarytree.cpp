@@ -41,6 +41,7 @@ void postorder(int binTree[], int size, int index){
 		cout << binTree[index] << " "; //root
 	}
 }
+
 //inorder left root right
 void inorder(int binTree[], int size, int index){
 	if(index>=size || binTree[index]==-1)return;
