@@ -55,6 +55,7 @@ void inorder(int binTree[], int size, int index){
 	}
 }
 
+
 int main(){
 	int binTree[]={-1,100,300,50,120,200,30,-1,-1,20,80,150,-1,99};
 	int size = sizeof(binTree)/sizeof(int);
