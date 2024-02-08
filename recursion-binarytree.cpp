@@ -61,6 +61,7 @@ int main(){
 
 	preorder(binTree,size,1);
 	cout<<endl<<"--------------------------------------"<<endl;
+	
 	postorder(binTree,size,1);
 	cout<<endl<<"--------------------------------------"<<endl;
 	inorder(binTree,size,1);
