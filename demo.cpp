@@ -1,19 +1,19 @@
 /*
 
-Functions of Disjoint Set~
-(1)Makeset(x)
-    {x}
-(2)Find(x) -> representative of the set where x belongs //returns the representative of a set
-(3)Union(x,y) -> merges two whole sets
-
-implementation -> rooted tree
-
-a,b,c,d,e,f,g
-{a,b,c} {d} {e,f} {g} //there are no commons...total are called disjoint set
-
-n=6 sets will be 0,1,2,3,4,5,6
-parent 0 1 2 3 4 5
-     |0|1|2|3|4|5|
+        Functions of Disjoint Set~
+        (1)Makeset(x)
+            {x}
+        (2)Find(x) -> representative of the set where x belongs //returns the representative of a set
+        (3)Union(x,y) -> merges two whole sets
+        
+        implementation -> rooted tree
+        
+        a,b,c,d,e,f,g
+        {a,b,c} {d} {e,f} {g} //there are no commons...total are called disjoint set
+        
+        n=6 sets will be 0,1,2,3,4,5,6
+        parent 0 1 2 3 4 5
+             |0|1|2|3|4|5|
      
 */
 
