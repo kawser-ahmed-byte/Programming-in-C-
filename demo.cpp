@@ -1,4 +1,5 @@
 /*
+
 Functions of Disjoint Set~
 (1)Makeset(x)
     {x}
