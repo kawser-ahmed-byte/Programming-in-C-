@@ -21,7 +21,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
 /// Final task: implement path compression and union by rank
 void makeSet(int p[], int x){
     p[x] = x;
