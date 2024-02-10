@@ -49,7 +49,5 @@ void connectedComponents(int p[], int g, int v[], pair<int,int> edge){
 }
 
 int main(){
-
     int nl
-
 }
