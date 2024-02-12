@@ -54,6 +54,7 @@ int main(){
 
     jobSelection(eachJobPays,rangeStart,rangeEnd,v);
 }
+
 /*
 6
 5 4 4
