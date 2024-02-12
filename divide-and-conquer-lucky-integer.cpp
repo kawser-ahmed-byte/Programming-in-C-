@@ -5,6 +5,7 @@ an integer is lucky if its last digit is 8
 
 #include <iostream>
 using namespace std;
+
 bool check(int x){
     if(x<=9 && x==8)return true;
     else if(x%10==8)return true;
