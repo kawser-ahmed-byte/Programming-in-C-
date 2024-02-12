@@ -1,3 +1,4 @@
+
 /*
 an integer is lucky if its last digit is 8
 */
