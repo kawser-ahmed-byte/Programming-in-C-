@@ -1,6 +1,7 @@
 /*
 an integer is lucky if its last digit is 8
 */
+
 #include <iostream>
 using namespace std;
 bool check(int x){
