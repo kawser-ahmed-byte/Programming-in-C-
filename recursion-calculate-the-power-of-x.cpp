@@ -10,6 +10,7 @@
 	- 2 power(2,0)
   
 */
+
 #include<iostream>
 using namespace std;
 
