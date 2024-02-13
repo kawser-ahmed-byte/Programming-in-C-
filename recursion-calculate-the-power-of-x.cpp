@@ -7,7 +7,7 @@
 	power(2,3)
 	-2, power(2,2)
 	-2, power(2,1)
-		- 2 power(2,0)
+	- 2 power(2,0)
   
 */
 #include<iostream>
