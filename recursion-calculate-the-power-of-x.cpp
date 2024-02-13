@@ -25,5 +25,6 @@ int powerValue(int x, int y){
 int main(){
 	int x,y;
 	cin >> x >> y;
+	
 	cout << powerValue(x,y) << endl;
 }
